@@ -1,0 +1,11 @@
+# .gitignore
+venv/
+__pycache__/
+data/
+models/
+.DS_Store
+*.pkl
+*.bin
+.vscode/
+cmd output data.txt
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
