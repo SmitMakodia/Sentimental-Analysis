@@ -86,9 +86,6 @@ To ensure the solution is scientifically valid, I benchmarked a **Logistic Regre
 ![Plot](plots/4_wordclouds.png)
 
 
-| Confusion Matrix | ROC Curve |
-| :---: | :---: |
-|  |  |
 
 > **Key Insight:** The Transformer model showed the biggest improvement on **Twitter data**, proving its ability to understand context and slang where the TF-IDF baseline failed.
 
