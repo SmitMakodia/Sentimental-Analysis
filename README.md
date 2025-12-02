@@ -16,7 +16,7 @@ By fine-tuning a **DistilRoBERTa** transformer, this system achieves **93.9% Acc
 
 Click the image below to watch the **Real-Time Inference Engine** and **Explainable AI** features in action:
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID_HERE)
+![Watch the video]([https://youtu.be/paVw5MfjPW8])
 
 > *The dashboard demonstrates the model's ability to handle slang, sarcasm, and negation, with visual "Attention Highlights" explaining the decision.*
 
@@ -77,13 +77,13 @@ To ensure the solution is scientifically valid, I benchmarked a **Logistic Regre
 
 *Generated using `src/visualize_results.py`*
 
-![Plot](plots\1_confusion_matrices.png)
+![Plot](plots/1_confusion_matrices.png)
 
-![Plot](plots\2_roc_curves.png)
+![Plot](plots/2_roc_curves.png)
 
-![Plot](plots\3_domain_performance.png)
+![Plot](plots/3_domain_performance.png)
 
-![Plot](plots\4_wordclouds.png)
+![Plot](plots/4_wordclouds.png)
 
 
 | Confusion Matrix | ROC Curve |
