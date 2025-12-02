@@ -16,7 +16,7 @@ By fine-tuning a **DistilRoBERTa** transformer, this system achieves **93.9% Acc
 
 Click the image below to watch the **Real-Time Inference Engine** and **Explainable AI** features in action:
 
-![Watch the video](https://youtu.be/paVw5MfjPW8)
+[![Watch the video](https://img.youtube.com/vi/paVw5MfjPW8/0.jpg)](https://youtu.be/paVw5MfjPW8)
 
 
 > *The dashboard demonstrates the model's ability to handle slang, sarcasm, and negation, with visual "Attention Highlights" explaining the decision.*
